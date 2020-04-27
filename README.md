@@ -6,7 +6,7 @@ How to run the hotel booking and reservation system
 2. Install Composer. link: https://www.youtube.com/watch?v=BGyuKpfMB9E
 3. Install laravel with following command in powershell: 
     composer global require laravel/installer
-4. Donwload the zip file and unzip it
+4. Donwload the zip file and unzip it at XAMMP/htdocs
 5. Open the foloder in VS code
 6. Open the Termial in VS code and type following command in order
 7. composer install
