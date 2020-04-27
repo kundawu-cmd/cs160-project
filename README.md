@@ -15,3 +15,6 @@ How to run the hotel booking and reservation system
 10. php artisan serve
 
 Noted: make sure your mysql user and password match in .env file.
+
+The admin username is admin@gmail.com, pw is admin.
+The default normal user is kunda@gmail.com, pw is password.
